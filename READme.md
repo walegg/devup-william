@@ -1,4 +1,4 @@
-# devup-zaferkurtulus
+# devup-william
 
 OKUPDATE UPDATE FILE
 
@@ -29,9 +29,9 @@ Once you validate all your tasks, the contract is considered completed.
 YOUR TASKS:
 You can add a ✅ at the end of a completed task, ⏩ for an active task and ⏳ for a todo
 
-TASK 1: Your Freelancer account analytics and profile information ⏳
-TASK 2: Signup to https://okupdate.dev with my invitation link (to be sent) ⏳
-TASK 3: Select Dev and provide your Github username (if not signing up with Github) ⏳
+TASK 1: Your Freelancer account analytics and profile information ✅
+TASK 2: Signup to https://okupdate.dev with my invitation link (to be sent) ✅
+TASK 3: Select Dev and provide your Github username (if not signing up with Github) ✅
 TASK 4: Complete Quickstart page ⏳
 TASK 5: Job bidding 5 on Freelancer ⏳
 TASK 6: Job bidding 6 on Freelancer ⏳
